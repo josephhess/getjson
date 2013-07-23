@@ -1,0 +1,54 @@
+.inner {
+  background-color: gray;
+  height:80px;
+  width: 80px;
+  margin: 10px;
+  float: left;
+}
+
+.middle {
+
+}
+
+.green{
+  background-color: green;
+
+
+}
+.rush{
+  background-image:url('../images/rush-limbaugh.jpg');
+  background-size: 80px 80px;
+}
+.maher{
+  background-image:url('../images/bill_maher.jpg');
+  background-size: 80px 80px;
+}
+.tweets {
+  height: 500px;
+  overflow: scroll;
+}
+hr{
+  color: black;
+}
+
+.link_div {
+  width: 480px;
+  margin: 10px;
+  text-align: center;
+  color:black;
+}
+
+.inner_blue {
+  background-color: blue;
+
+}
+
+.congrats_div {
+  background-color: red;
+  height: 100px;
+  width: 480px;
+  margin: 10px;
+  float: left;
+  text-align: center;
+  line-height: 75px;
+}
